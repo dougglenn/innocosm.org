@@ -32,6 +32,6 @@ ISBN 9780359482153
 Release: 6 March 1999
 $15.99 US
 
-# The 'Innocosm' project is supported by Innocosm.org, a 501(c)3 non-profit dedicated to creating, building and hosting a free (as in beer) knowledged based, systematic innovation tool on the Web so people can use it to improve thier lives and that of their children.
+####### The 'Innocosm' project is supported by Innocosm.org, a 501(c)3 non-profit dedicated to creating, building and hosting a free (as in beer) knowledged based, systematic innovation tool on the Web so people can use it to improve thier lives and that of their children.
 
-# All rights reserved. &copy; Innocosm.org 2017 - 2020
+####### All rights reserved. &copy; Innocosm.org 2017 - 2020
